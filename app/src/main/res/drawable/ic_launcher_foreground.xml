@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Stylized Minecraft Block with Terminal / AI Bridge Glow -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,24 L84,39 L84,69 L54,84 L24,69 L24,39 Z" />
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M54,24 L84,39 L54,54 L24,39 Z" />
+    <path
+        android:fillColor="#0369A1"
+        android:pathData="M24,39 L54,54 L54,84 L24,69 Z" />
+    <path
+        android:fillColor="#075985"
+        android:pathData="M84,39 L54,54 L54,84 L84,69 Z" />
+    <!-- Command Prompt '>' icon in center -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,48 L52,54 L44,60 L48,63 L58,54 L48,45 Z" />
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M60,60 L68,60 L68,63 L60,63 Z" />
+</vector>

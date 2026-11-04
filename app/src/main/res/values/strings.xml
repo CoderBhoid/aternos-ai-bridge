@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aternos AI Bridge</string>
+    <string name="service_notification_channel_id">aternos_bridge_channel</string>
+    <string name="service_notification_channel_name">Aternos Bridge Service</string>
+    <string name="service_notification_channel_desc">Active monitoring notification for Aternos AI Bridge</string>
+    <string name="alert_notification_channel_id">aternos_alerts_channel</string>
+    <string name="alert_notification_channel_name">Aternos Bridge Alerts</string>
+    <string name="alert_notification_channel_desc">High-priority alerts such as Cloudflare challenge detection</string>
+</resources>
